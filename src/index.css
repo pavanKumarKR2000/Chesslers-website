@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Sofia+Sans&display=swap');
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Rubik',sans-serif;
+  /* font-family: 'Sofia sans',sans-serif; */
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* lip_7BVqkiYUJNJWj3ZHJOIz */
